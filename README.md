@@ -1,2 +1,2 @@
 # Sistema do cliente de um cinema em C
-This project is part of the discipline "Computing 1" from Computer Science - UFRJ
+  Esse projeto fez parte de uma tarefa da disciplina de computação 1 - UFRJ
